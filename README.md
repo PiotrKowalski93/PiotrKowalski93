@@ -1,12 +1,9 @@
 # Hi, I'm Piotr
 
-Senior software engineer working in Banking backend / platform systems.
+Senior software engineer working with banking backend systems.
 
 Curious about how real trading systems are built and trying to understand the
 engineering behind them by building and measuring it.
-
-Recently, I've been exploring how trading infrastructure works under the hood — 
-order books, matching engines and low latency code.
 
 📚 This GitHub is a collection of experiments and learning projects.
 ☎️ Happy to get in touch!
@@ -25,6 +22,7 @@ order books, matching engines and low latency code.
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
 - Small performance fixes
+
 ToDo:
 - Finish implementation
 - Tests for whole flow
