@@ -3,7 +3,7 @@
 Senior software engineer working with banking backend systems.
 
 Curious about how real trading systems are built and trying to understand the
-engineering behind them by building and measuring it.
+engineering behind them.
 
 📚 This GitHub is a collection of experiments and learning projects.
 ☎️ Happy to get in touch!
