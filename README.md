@@ -1,11 +1,12 @@
 # Hi, I'm Piotr
 
-Software engineer working mostly with C++ and backend systems.
+Software engineer working mostly with C#/C++ and backend systems.
 
-Recently I've been exploring how trading infrastructure works under the hood — 
+Recently, I've been exploring how trading infrastructure works under the hood — 
 order books, matching engines and low latency code.
 
-This GitHub is mostly a collection of experiments and learning projects.
+📚 This GitHub is a collection of experiments and learning projects.
+☎️ Happy to get in touch!
 
 ## What I'm currently exploring
 
@@ -14,31 +15,31 @@ This GitHub is mostly a collection of experiments and learning projects.
 - low latency C++
 - memory layout and data structures
 - CPU pinning / latency measurements
-- market microstructure basics
+- market data feed handling
 
 ## Selected projects
 
-**Matching Engine**
-- implementation of a simple exchange matching engine
-- order book with price levels
-- experiments with performance and memory layout
+**[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
+- Implementation of whole (but simplified) flow between Exchange and Trading System
+- Small performance fixes
+ToDo:
+- Finish implementation
+- Tests for whole flow
+- Benchmarking for V1
 
-**Low Latency Experiments**
-- rdtsc based latency measurements
-- CPU affinity / pinning
-- small benchmarks and system experiments
+**[low-latency-building-blocks](https://github.com/PiotrKowalski93/low-latency-building-blocks)**
+- reusable components for future use and perf improvements
+
+**[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
+- first benchmarking
+- linux tools
 
 ## Background
 
-Senior software engineer working in backend / platform systems.
+Senior software engineer working in Banking backend / platform systems.
 
 Curious about how real trading systems are built and trying to understand the
-engineering behind them by building small components.
-
-## Notes
-
-Most of the code here is exploratory and educational.
-I'm using these projects to understand performance and system design better.
+engineering behind them by building and measuring it.
 
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
