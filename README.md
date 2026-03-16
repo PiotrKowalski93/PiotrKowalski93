@@ -1,6 +1,9 @@
 # Hi, I'm Piotr
 
-Software engineer working mostly with C#/C++ and backend systems.
+Senior software engineer working in Banking backend / platform systems.
+
+Curious about how real trading systems are built and trying to understand the
+engineering behind them by building and measuring it.
 
 Recently, I've been exploring how trading infrastructure works under the hood — 
 order books, matching engines and low latency code.
@@ -33,14 +36,6 @@ ToDo:
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
 - first benchmarking
 - linux tools
-
-## Background
-
-Senior software engineer working in Banking backend / platform systems.
-
-Curious about how real trading systems are built and trying to understand the
-engineering behind them by building and measuring it.
-
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
