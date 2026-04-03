@@ -29,7 +29,9 @@ ToDo:
 - Benchmarking for V1
 
 **[low-latency-building-blocks](https://github.com/PiotrKowalski93/low-latency-building-blocks)**
-- reusable components for future use and perf improvements
+- [Memory Pool](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/memory-pool)
+- [Binary Logger](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/binary-logger-ring-buffer)
+- [CPU Pinning and starting thread](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/multithreding-low-latency)
 
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
 - [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
