@@ -21,7 +21,6 @@ engineering behind them.
 
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
-- Small performance fixes
 
 ToDo:
 - Finish implementation
@@ -35,7 +34,6 @@ ToDo:
 
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
 - [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
-- linux tools
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
