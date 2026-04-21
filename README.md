@@ -34,6 +34,11 @@ ToDo:
 
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
 - [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
+
+**Tools:**
+- [GDB Debugger](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/gdb_debugger.md)
+- [pperf with Call Graph](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/google_perf.md)
+- [Google Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter02/Google%20Benchmark)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
