@@ -1,11 +1,10 @@
 # Hi, I'm Piotr
 
-Senior software engineer working with banking backend systems.
+I am senior software engineer working with banking backend systems.
+I am Curious about how real trading systems are built and how to build and benchmark fast C++ code.
 
-Curious about how real trading systems are built and trying to understand the
-engineering behind them.
+📚 This GitHub is a collection of my experiments and learning projects.
 
-📚 This GitHub is a collection of experiments and learning projects.
 ☎️ Happy to get in touch!
 
 ## What I'm currently exploring
