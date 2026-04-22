@@ -39,6 +39,9 @@ ToDo:
 - [GDB Debugger](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/gdb_debugger.md)
 - [pperf with Call Graph](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/google_perf.md)
 - [Google Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter02/Google%20Benchmark)
+
+**Microbenchmarks:**
+- Branch Misprediction [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
