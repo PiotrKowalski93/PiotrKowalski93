@@ -40,9 +40,10 @@ ToDo:
 - [Google Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter02/Google%20Benchmark)
 - [LLVM-MCA](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/llvm-mca.md)
 
-**Microbenchmarks:**
+**Benchmarks and Notes:**
 - Branch Misprediction - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
 - Branching Optimizations - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Predictions%20Optimizations.md)
+- Sequential vs Random memory access patterns - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/Memory%20Access%20Benchmarks.md)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
