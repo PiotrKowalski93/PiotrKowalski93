@@ -46,6 +46,7 @@ ToDo:
 - Sequential vs Random memory access patterns - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/Memory%20Access%20Benchmarks.md)
 - List vs Vector benchmark - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/List%20vs%20Vector.md)
 - Sequential Memory Write Benchmark (Multithreaded) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Multithreaded%20Sequential%20Memory%20Write%20Benchmark.md)
+- Memory Synchronization Cost Benchmark (no vs atomic vs mutex) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Synchronization%20Cost%20Benchmark.md)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
