@@ -44,9 +44,10 @@ ToDo:
 - Branch Misprediction - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
 - Branching Optimizations - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Predictions%20Optimizations.md)
 - Sequential vs Random memory access patterns - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/Memory%20Access%20Benchmarks.md)
-- List vs Vector benchmark - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/List%20vs%20Vector.md)
-- Sequential Memory Write Benchmark (Multithreaded) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Multithreaded%20Sequential%20Memory%20Write%20Benchmark.md)
-- Memory Synchronization Cost Benchmark (no vs atomic vs mutex) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Synchronization%20Cost%20Benchmark.md)
+- List vs Vector - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/List%20vs%20Vector.md)
+- Sequential memory write (Multithreaded) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Multithreaded%20Sequential%20Memory%20Write%20Benchmark.md)
+- Memory synchronization cost (no vs atomic vs mutex) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Synchronization%20Cost%20Benchmark.md)
+- Cache line contention - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/False%20Sharing%20and%20Cache%20Line%20Contention.md)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
