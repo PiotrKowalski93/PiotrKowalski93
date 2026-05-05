@@ -49,6 +49,7 @@ ToDo:
 - Memory synchronization cost (no vs atomic vs mutex) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Synchronization%20Cost%20Benchmark.md)
 - Cache line contention - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/False%20Sharing%20and%20Cache%20Line%20Contention.md)
 - Memory barriers in C++ - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Barriers%20in%20C%2B%2B%20(std%3A%3Amemory_order).md)
+- Atomic vs Mutex vs CAS - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/Locks%20vs%20Mutex%20vs%20CAS.md)
 <!--
 **PiotrKowalski93/PiotrKowalski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
