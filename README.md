@@ -35,8 +35,8 @@ ToDo:
 - [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
 
 **Concurrent programming building block:**
-- Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spin_lock.cpp) [Notes]()
-- Ptr Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/ptr_spin_lock.cpp) [Notes]()
+- Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spin_lock.cpp) [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spinlock.md)
+- Ptr Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/ptr_spin_lock.cpp) [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/ptrspinlock.md)
 
 **Tools:**
 - [GDB Debugger](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/gdb_debugger.md)
