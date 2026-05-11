@@ -34,6 +34,10 @@ ToDo:
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
 - [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
 
+**Concurrent building block:**
+- Spinlock: []()
+- Ptr Spinlock: []()
+
 **Tools:**
 - [GDB Debugger](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/gdb_debugger.md)
 - [pperf with Call Graph](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/google_perf.md)
