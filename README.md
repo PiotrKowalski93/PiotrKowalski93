@@ -57,3 +57,4 @@ ToDo:
 
 ## Different Subjects
 - Memory maped files - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/MemoryMappedFiles.md)
+- Dictionary with lock vs ConcurrentDictionary vs Splitting Work - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/DictionariesPerformance.md) [Benchmarks](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Benchmarks/Parallel_Dict_Benchmarks.cs)
