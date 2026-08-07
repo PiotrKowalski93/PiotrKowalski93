@@ -59,3 +59,4 @@ ToDo:
 - Memory maped files - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/MemoryMappedFiles.md)
 - Dictionary with lock vs ConcurrentDictionary vs Splitting Work - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/DictionariesPerformance.md) [Benchmarks](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Benchmarks/Parallel_Dict_Benchmarks.cs)
 - Hashing for 1BRC - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Hashing.md)
+- 1BRC with SIMD - [Code](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Level5_SIMD/Program.cs)
