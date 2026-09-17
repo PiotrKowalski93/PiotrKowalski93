@@ -30,9 +30,7 @@ ToDo:
 - Memory Pool - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/memory-pool)
 - Binary Logger - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/binary-logger-ring-buffer)
 - Thread utils(pinning, starting thread) - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/multithreding-low-latency)
-
-**[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
-- [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/lock-free-queue)
+- SPSC - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/lock-free-queue)
 
 **Concurrent programming building block:**
 - Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spin_lock.cpp) [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spinlock.md)
