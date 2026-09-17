@@ -32,7 +32,7 @@ ToDo:
 - [CPU Pinning and starting thread](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/multithreding-low-latency)
 
 **[cpp-low-latency-benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks)**
-- [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/benchmarks/lock_free_ring_buffer)
+- [SPSC Lock-free queue with benchmarks](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/lock-free-queue)
 
 **Concurrent programming building block:**
 - Spinlock: [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spin_lock.cpp) [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/spinlock.md)
