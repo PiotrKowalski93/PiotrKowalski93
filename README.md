@@ -43,7 +43,7 @@ ToDo:
 - [LLVM-MCA](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/llvm-mca.md)
 
 **Benchmarks and Notes:**
-- Branch Misprediction - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
+- Branch misprediction benchmark - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
 - Branching Optimizations - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Predictions%20Optimizations.md)
 - Sequential vs Random memory access patterns - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/Memory%20Access%20Benchmarks.md)
 - List vs Vector - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter04/List%20vs%20Vector.md)
