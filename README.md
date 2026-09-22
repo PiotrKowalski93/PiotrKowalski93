@@ -53,6 +53,7 @@ ToDo:
 - Memory barriers in C++ - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter05/Memory%20Barriers%20in%20C%2B%2B%20(std%3A%3Amemory_order).md)
 - Atomic vs Mutex vs CAS - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/Locks%20vs%20Mutex%20vs%20CAS.md)
 - AVX2 and FMA on vector multiplication - [Notes](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/Samples)
+- Branch Prediction Hints - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/BranchPrediction.md)
 
 ## Different Subjects
 - Memory maped files - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/MemoryMappedFiles.md)
