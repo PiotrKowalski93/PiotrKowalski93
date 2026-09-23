@@ -16,8 +16,7 @@ I am Curious about how real trading systems are built and how to build and bench
 - CPU pinning / latency measurements
 - market data feed handling
 
-## Selected projects
-
+## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
 
@@ -55,7 +54,10 @@ ToDo:
 - AVX2 and FMA on vector multiplication - [Notes](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/Samples)
 - Branch Prediction Hints - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/BranchPrediction.md)
 
-## Different Subjects
+## Assembler
+- Asm Cheet Sheet - [Sheet](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Assembly/X86-X64%20Assembly%20Cheet%20Sheet.md)
+
+## C#
 - Memory maped files - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/MemoryMappedFiles.md)
 - Dictionary with lock vs ConcurrentDictionary vs Splitting Work - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/DictionariesPerformance.md) [Benchmarks](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Benchmarks/Parallel_Dict_Benchmarks.cs)
 - Hashing for 1BRC - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Hashing.md)
