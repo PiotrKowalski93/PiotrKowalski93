@@ -53,6 +53,7 @@ ToDo:
 - Atomic vs Mutex vs CAS - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter06/Locks%20vs%20Mutex%20vs%20CAS.md)
 - AVX2 and FMA on vector multiplication - [Notes](https://github.com/PiotrKowalski93/cpp-low-latency-benchmarks/tree/main/Samples)
 - Branch Prediction Hints - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/BranchPrediction.md)
+- ``__restrict__`` - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/__restrict__%20in%20C%2B%2B.md)
 
 ## Assembler
 - Asm Cheet Sheet - [Sheet](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Assembly/X86-X64%20Assembly%20Cheet%20Sheet.md)
