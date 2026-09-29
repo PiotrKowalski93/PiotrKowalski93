@@ -7,23 +7,9 @@ I am Curious about how real trading systems are built and how to build and bench
 
 ☎️ Happy to get in touch!
 
-## What I'm currently exploring
-
-- limit order books
-- matching engines
-- low latency C++
-- memory layout and data structures
-- CPU pinning / latency measurements
-- market data feed handling
-
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
-
-ToDo:
-- Finish implementation
-- Tests for whole flow
-- Benchmarking for V1
 
 **[low-latency-building-blocks](https://github.com/PiotrKowalski93/low-latency-building-blocks)**
 - Memory Pool - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/memory-pool)
