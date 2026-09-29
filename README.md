@@ -56,6 +56,9 @@ ToDo:
 - ``__restrict__`` - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/__restrict__%20in%20C%2B%2B.md)
 - ``std::shared_mutex`` vs ``std::mutex`` - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07)
 
+## Linux
+- Linux Low-Latency Startup Setup - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Linux/Linux%20Low-Latency%20Startup%20Setup.md)
+
 ## Assembler
 - Asm Cheet Sheet - [Sheet](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Assembly/X86-X64%20Assembly%20Cheet%20Sheet.md)
 
