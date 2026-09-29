@@ -14,7 +14,7 @@ I am Curious about how real trading systems are built and how to build and bench
 **[low-latency-building-blocks](https://github.com/PiotrKowalski93/low-latency-building-blocks)**
 - Memory Pool - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/memory-pool)
 - Binary Logger - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/binary-logger-ring-buffer)
-- Thread utils(pinning, starting thread) - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/multithreding-low-latency)
+- Thread utils(pinning, starting thread) - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/multithreding-low-latency/thread_utils.h)
 - SPSC - [Code](https://github.com/PiotrKowalski93/low-latency-building-blocks/tree/main/lock-free-queue)
 
 **Concurrent programming building block:**
