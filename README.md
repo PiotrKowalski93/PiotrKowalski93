@@ -42,8 +42,9 @@ I am Curious about how real trading systems are built and how to build and bench
 - ``__restrict__`` - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Attributes/__restrict__%20in%20C%2B%2B.md)
 - ``std::shared_mutex`` vs ``std::mutex`` - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07)
 
-**Data Structures for Concurrency:**
+**Concurrency:**
 - SpinLock (TTS, Backoff stratedy) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/SpinLock.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/spinlock.hpp)
+- Double-Checked Locking Pattern (DCLP) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/Double-Checked%20Locking%20Pattern.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/DoubleCheckedLockingPattern.cpp)
 
 ## Linux
 - Linux Low-Latency Startup Setup - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Linux/Linux%20Low-Latency%20Startup%20Setup.md)
