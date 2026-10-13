@@ -45,7 +45,7 @@ I am Curious about how real trading systems are built and how to build and bench
 **Concurrency:**
 - SpinLock (TTS, Backoff stratedy) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/SpinLock.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/spinlock.cpp)
 - Double-Checked Locking Pattern (DCLP) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/Double-Checked%20Locking%20Pattern.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/DoubleCheckedLockingPattern.cpp)
-- MutexLock vs SpinLock vs SequentialLock in multiple readers and one writer scenario - [Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07/Seqlock)
+- `MutexLock` vs `SpinLock` vs `SequentialLock` in multiple readers and one writer scenario - [Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07/Seqlock)
 
 ## Linux
 - Linux Low-Latency Startup Setup - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Linux/Linux%20Low-Latency%20Startup%20Setup.md)
