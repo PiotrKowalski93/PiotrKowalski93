@@ -26,6 +26,7 @@ I am Curious about how real trading systems are built and how to build and bench
 - [pperf with Call Graph](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/google_perf.md)
 - [Google Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter02/Google%20Benchmark)
 - [LLVM-MCA](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/llvm-mca.md)
+- `perf` Cheat Sheet - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/PerfCheatSheet.md)
 
 **Benchmarks and Notes:**
 - Branch misprediction benchmark - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter03/Branch%20Misprediction%20%E2%80%94%20Microbenchmark.md)
