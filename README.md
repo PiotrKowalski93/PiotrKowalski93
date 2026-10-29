@@ -44,9 +44,9 @@ I am Curious about how real trading systems are built and how to build and bench
 - ``std::shared_mutex`` vs ``std::mutex`` - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07)
 
 **Concurrency:**
-- SpinLock (TTS, Backoff stratedy) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/SpinLock.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/spinlock.cpp)
-- Double-Checked Locking Pattern (DCLP) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/Double-Checked%20Locking%20Pattern.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/DoubleCheckedLockingPattern.cpp)
-- `MutexLock` vs `SpinLock` vs `SequentialLock` in multiple readers and one writer scenario - [Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/tree/main/Chapter07/Seqlock)
+- SpinLock (TTS, Backoff stratedy) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/SpinLock.md) [Code](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/SpinLock/spinlock.hpp)
+- Double-Checked Locking Pattern (DCLP) - [Notes](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/Double%20Checked%20Locking%20Pattern/Double-Checked%20Locking%20Pattern.md)
+- `MutexLock` vs `SpinLock` vs `SequentialLock` in multiple readers and one writer scenario - [Benchmark](https://github.com/PiotrKowalski93/the-art-of-writing-efficien-programs-lab/blob/main/Chapter07/Seqlock/readme.md)
 
 ## Linux
 - Linux Low-Latency Startup Setup - [Notes](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Linux/Linux%20Low-Latency%20Startup%20Setup.md)
