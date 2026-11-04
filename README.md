@@ -11,7 +11,7 @@ I am Curious about how real trading systems are built and how to build and bench
 
 **[performance-engineering-notes](https://github.com/PiotrKowalski93/performance-engineering-notes)**
 
-A collection of technical notes and experiments focused on understanding software performance at the hardware level.
+A collection of technical notes and experiments focused on understanding software performance at the hardware level. Experiments comes from [perf-ninja](https://github.com/dendibakh/perf-ninja/tree/private/piotrkowalski-performance-labs), notes are combination of knowledge from "Performance Analysis and Tuning on Modern CPUs" by Denis Bakhvalov and my own research.
 
 - CPU Microarchitecture & Instruction-Level Parallelism
 - SIMD Vectorization & Compiler Optimizations
