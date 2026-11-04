@@ -11,7 +11,7 @@ I am Curious about how real trading systems are built and how to build and bench
 
 **[performance-engineering-notes](https://github.com/PiotrKowalski93/performance-engineering-notes)**
 
-A collection of technical notes and experiments focused on understanding software performance at the hardware level. Experiments comes from [perf-ninja](https://github.com/dendibakh/perf-ninja/tree/private/piotrkowalski-performance-labs), notes are combination of knowledge from "Performance Analysis and Tuning on Modern CPUs" by Denis Bakhvalov and my own research.
+A collection of technical notes and experiments focused on understanding software performance at the hardware level. Experiments comes from [perf-ninja](https://github.com/dendibakh/perf-ninja/tree/private/piotrkowalski-performance-labs), notes are combination of knowledge from "Performance Analysis and Tuning on Modern CPUs" by Denis Bakhvalov and my own research. [My Branch](https://github.com/dendibakh/perf-ninja/tree/private/piotrkowalski-performance-labs)
 
 - CPU Microarchitecture & Instruction-Level Parallelism
 - SIMD Vectorization & Compiler Optimizations
@@ -20,8 +20,6 @@ A collection of technical notes and experiments focused on understanding softwar
 - Branch Prediction & Speculative Execution
 - Memory Alignment, Prefetching & False Sharing
 - Performance Analysis, Profiling & Benchmarking
-
-The repository combines PerfNinja labs, insights from performance engineering literature, and personal experiments with C++ code, benchmarks, and assembly analysis.
 
 ### Memory
 - Data packing [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Data%20Packing.md)
