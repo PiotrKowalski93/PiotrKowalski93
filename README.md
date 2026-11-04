@@ -23,6 +23,10 @@ A collection of technical notes and experiments focused on understanding softwar
 
 The repository combines PerfNinja labs, insights from performance engineering literature, and personal experiments with C++ code, benchmarks, and assembly analysis.
 
+### Memory
+- Data Packing [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Data%20Packing.md)
+- Huge Pages [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Huge%20Pages.md)
+
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
