@@ -7,6 +7,22 @@ I am Curious about how real trading systems are built and how to build and bench
 
 ☎️ Happy to get in touch!
 
+## Performance Engineering
+
+**[performance-engineering-notes](https://github.com/PiotrKowalski93/performance-engineering-notes)**
+
+A collection of technical notes and experiments focused on understanding software performance at the hardware level.
+
+- CPU Microarchitecture & Instruction-Level Parallelism
+- SIMD Vectorization & Compiler Optimizations
+- Memory Hierarchy, Cache Locality & Data Layout
+- Dependency Chains & Instruction Throughput
+- Branch Prediction & Speculative Execution
+- Memory Alignment, Prefetching & False Sharing
+- Performance Analysis, Profiling & Benchmarking
+
+The repository combines PerfNinja labs, insights from performance engineering literature, and personal experiments with C++ code, benchmarks, and assembly analysis.
+
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
 - Implementation of whole (but simplified) flow between Exchange and Trading System
