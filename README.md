@@ -25,6 +25,8 @@ A collection of technical notes and experiments focused on understanding softwar
 - Data packing [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Data%20Packing.md)
 - Huge pages [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Huge%20Pages.md)
 - Memory prefetching [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Memory%20Prefetching.md)
+### CPU
+- Data dependency (ILP) [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/CPU/Data%20dependency.md)
 
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
