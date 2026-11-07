@@ -27,6 +27,7 @@ A collection of technical notes and experiments focused on understanding softwar
 - Memory prefetching [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Memory%20Prefetching.md)
 ### CPU
 - Data dependency (ILP) [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/CPU/Data%20dependency.md)
+- False sharing [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/False%20sharing.md)
 
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
