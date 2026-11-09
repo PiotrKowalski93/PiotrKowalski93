@@ -26,8 +26,10 @@ A collection of technical notes and experiments focused on understanding softwar
 - Huge pages [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Huge%20Pages.md)
 - Memory prefetching [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Memory%20Prefetching.md)
 - False sharing [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/False%20sharing.md)
+
 ### CPU
 - Data dependency (ILP) [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/CPU/Data%20dependency.md)
+- Memory Dependencies & Instruction-Level Parallelism [Notes](https://github.com/PiotrKowalski93/performance-engineering-notes/blob/main/Memory/Memory%20Dependencies%20%26%20Instruction-Level%20Parallelism.md)
 
 ## C++
 **[electronic-trading-ecosystem](https://github.com/PiotrKowalski93/electronic-trading-ecosystem)**
