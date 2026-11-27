@@ -84,5 +84,5 @@ A collection of technical notes and experiments focused on understanding softwar
 - Hashing for 1BRC - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Hashing.md)
 - 1BRC with SIMD - [Code](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Level5_SIMD/Program.cs)
 
-### GC
+**GC:**
 
