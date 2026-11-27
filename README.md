@@ -78,8 +78,11 @@ A collection of technical notes and experiments focused on understanding softwar
 ## Assembler
 - Asm Cheet Sheet - [Sheet](https://github.com/PiotrKowalski93/low-latency-building-blocks/blob/main/Assembly/X86-X64%20Assembly%20Cheet%20Sheet.md)
 
-## C#
+## C# & .Net
 - Memory maped files - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/MemoryMappedFiles.md)
 - Dictionary with lock vs ConcurrentDictionary vs Splitting Work - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/DictionariesPerformance.md) [Benchmarks](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Benchmarks/Parallel_Dict_Benchmarks.cs)
 - Hashing for 1BRC - [Notes](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Hashing.md)
 - 1BRC with SIMD - [Code](https://github.com/PiotrKowalski93/billion-row-perf-challenge/blob/main/Level5_SIMD/Program.cs)
+
+### GC
+
